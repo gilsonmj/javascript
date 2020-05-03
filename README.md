@@ -1,2 +1,1 @@
-# javascript
-Estudos ...
+# Estudos
