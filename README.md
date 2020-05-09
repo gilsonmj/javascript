@@ -40,7 +40,7 @@ yarn add nodemon -D
     },
 ```
 
->### 7. Por fim, inicie  o servidor por meio do comando
+>### 7. Por fim, inicie  o servidor por meio do comando.
 
 
 ```
