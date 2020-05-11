@@ -1,9 +1,9 @@
 {
-  "name": "sandbox_js",
+  "name": "secondClass",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon index.js"
-    }
+    "start": "nodemon app.js"
+  }
 }
